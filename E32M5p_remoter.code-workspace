@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+	],
+	"settings": {
+		"files.associations": {
+			"temperature.jpg.c": "cpp"
+		}
+	}
+}

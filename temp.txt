@@ -1,0 +1,157 @@
+OK
+[  3303][W][Wire.cpp:204] begin(): Bus already started in Master Mode.
+++Boot num: 1
+Wakeup was not caused by deep sleep: 0
+[  3934][W][Wire.cpp:204] begin(): Bus already started in Master Mode.
+setup wifi... 
+wifi flag: 0
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+check touch screen
+update battery
+[  5703][I][WiFiMulti.cpp:84] addAP(): [WIFI][APlistAdd] add SSID: xxHome
+[ 10216][I][WiFiMulti.cpp:114] run(): [WIFI] scan done
+[ 10217][I][WiFiMulti.cpp:119] run(): [WIFI] 2 networks found
+[ 10217][I][WiFiMulti.cpp:160] run(): [WIFI] Connecting BSSID: C0:56:27:C9:BD:8E SSID: xxHome Channel: 11 (-23)
+[ 10857][I][WiFiMulti.cpp:174] run(): [WIFI] Connecting done.
+[ 13862][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 21869][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 29875][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 37881][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 45887][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 53893][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 61899][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 69905][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 77911][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+[ 85917][I][WiFiClient.cpp:253] connect(): select returned due to timeout 3000 ms for fd 48
+update temperature and humidity
+Temperatura: 21.14*C  Humedad: 51.47%
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+check touch screen
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+not finger up and update touchscreen
+start loop
+start loop
+start loop
+start loop
+start loop
+start loop
+check touch screen
+start loop
+start loop
+start loop
+start loop
+start loop
+wake_count: 1
+Going to sleep now
